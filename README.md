@@ -8,4 +8,5 @@ There is pagination. App shows more than 10 results if more than 10 results exis
 There is a screen that shows detail information about a selected movie.
 
 ### Demo
-![App Promo Gif](GodFather.gif)
+<img src="/GodFather.gif" width="250" height="500"/>
+
